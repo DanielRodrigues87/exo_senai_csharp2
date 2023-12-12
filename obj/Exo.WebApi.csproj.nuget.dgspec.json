@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danielrodrigues/Downloads/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (1)/Exo.WebApi/Exo.WebApi.csproj": {}
+    "/home/danielrodrigues/senai/exo_senai_csharp2/Exo.WebApi.csproj": {}
   },
   "projects": {
-    "/home/danielrodrigues/Downloads/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (1)/Exo.WebApi/Exo.WebApi.csproj": {
+    "/home/danielrodrigues/senai/exo_senai_csharp2/Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danielrodrigues/Downloads/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (1)/Exo.WebApi/Exo.WebApi.csproj",
+        "projectUniqueName": "/home/danielrodrigues/senai/exo_senai_csharp2/Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "/home/danielrodrigues/Downloads/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (1)/Exo.WebApi/Exo.WebApi.csproj",
+        "projectPath": "/home/danielrodrigues/senai/exo_senai_csharp2/Exo.WebApi.csproj",
         "packagesPath": "/home/danielrodrigues/.nuget/packages/",
-        "outputPath": "/home/danielrodrigues/Downloads/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (1)/Exo.WebApi/obj/",
+        "outputPath": "/home/danielrodrigues/senai/exo_senai_csharp2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danielrodrigues/.nuget/NuGet/NuGet.Config"
